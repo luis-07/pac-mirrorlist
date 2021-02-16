@@ -1,0 +1,13 @@
+{
+   "test": [
+
+      {
+         "id": "01",
+         "language": "Python",
+         "version": "1.0",
+         "author": "Luis Braun",
+         "repo": "https://github.com/luis-07/pac-package-example.git"
+         "installfile": "main.py"
+      }
+   ]
+}
